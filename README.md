@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zayd-s
 - 👀 I’m interested in Software Engineering and Machine Learning
-- 🌱 I’m currently learning Python Machine Learning Frameworks
+- 🌱 I’m currently learning Python Data & Machine Learning related Frameworks
 - 📫 How to reach me - [LinkedIn](https://uk.linkedin.com/in/zayd-sabeh-6b4gokre "Zayd Sabeh on LinkedIn")
 
 <!---
